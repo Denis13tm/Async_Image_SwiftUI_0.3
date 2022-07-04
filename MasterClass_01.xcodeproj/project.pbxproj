@@ -14,7 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		F65BDFFF287239C700989BDA /* MasterClass_01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MasterClass_01.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F65BDFFF287239C700989BDA /* Async_Image.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Async_Image.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F65BE002287239C700989BDA /* MasterClass_01App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterClass_01App.swift; sourceTree = "<group>"; };
 		F65BE004287239C700989BDA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F65BE006287239CB00989BDA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,7 +43,7 @@
 		F65BE000287239C700989BDA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F65BDFFF287239C700989BDA /* MasterClass_01.app */,
+				F65BDFFF287239C700989BDA /* Async_Image.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -84,7 +84,7 @@
 			);
 			name = MasterClass_01;
 			productName = MasterClass_01;
-			productReference = F65BDFFF287239C700989BDA /* MasterClass_01.app */;
+			productReference = F65BDFFF287239C700989BDA /* Async_Image.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -281,7 +281,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "NotYet.MasterClass-01";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Async_Image;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -310,7 +310,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "NotYet.MasterClass-01";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Async_Image;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
